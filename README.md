@@ -2,7 +2,7 @@
 A tool to help you paste anywhere
 
 ## What it is
-Sometimes you need to complete some homework on the website, or just try to quickly enter data in some old and unfriendly software, but pressing ctrl+v does nothing? This tool is born to solve your problem.
+Sometimes you need to complete some homework on the website, or just try to quickly enter data in some old and unfriendly software, but pressing ctrl+v does nothing? Or, you just don't want to click again and again "paste as plain text" and don't want to mess up your typography. This tool is born to solve your problem.
 
 ## How to use
 
